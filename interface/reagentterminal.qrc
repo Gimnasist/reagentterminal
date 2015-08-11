@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias='Icons/uflogo.png'>Icons/uflogo.png</file>
+        <file alias='Icons/print_button_0.png'>Icons/print_button_0.png</file>
+        <file alias='Icons/datamatrix.png'>Icons/datamatrix.png</file>
+        <file alias='Icons/ean.png'>Icons/ean.png</file>
+    </qresource>
+</RCC>
